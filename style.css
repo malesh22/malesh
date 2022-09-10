@@ -1,0 +1,22 @@
+h1,h2, p{
+    color: black;
+    text-align: center;
+    font-size: 64px;
+    font-style: italic;
+}
+.container1{
+    background-color:orange;
+}
+.container2{
+    background-color: yellowgreen;
+}
+.img1{
+    margin: 0 300px 300px 120px;
+    padding: 20px;
+    border:1px solid red;
+    width: 502px;
+    height: 352px;
+    .thunder{
+        margin: 0;
+    }
+}
